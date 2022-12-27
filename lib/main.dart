@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Change title',
+      title: 'Flutter D999',
       home: const SignUpPage(),
     );
   }
